@@ -1,9 +1,9 @@
-################### The Website was uploaded on UQZone 
+# The Website was uploaded on UQZone 
 
-****************** This website was built based on CodeIgniter framework, you can deploy it on your server 
+** This website was built based on CodeIgniter framework, you can deploy it on your server 
 
 
-################### What is CodeIgniter
+### What is CodeIgniter
 
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
